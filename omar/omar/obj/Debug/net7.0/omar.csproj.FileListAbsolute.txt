@@ -1,0 +1,14 @@
+C:\Users\kiing\source\repos\omar\omar\bin\Debug\net7.0\omar.exe
+C:\Users\kiing\source\repos\omar\omar\bin\Debug\net7.0\omar.deps.json
+C:\Users\kiing\source\repos\omar\omar\bin\Debug\net7.0\omar.runtimeconfig.json
+C:\Users\kiing\source\repos\omar\omar\bin\Debug\net7.0\omar.dll
+C:\Users\kiing\source\repos\omar\omar\bin\Debug\net7.0\omar.pdb
+C:\Users\kiing\source\repos\omar\omar\obj\Debug\net7.0\omar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiing\source\repos\omar\omar\obj\Debug\net7.0\omar.AssemblyInfoInputs.cache
+C:\Users\kiing\source\repos\omar\omar\obj\Debug\net7.0\omar.AssemblyInfo.cs
+C:\Users\kiing\source\repos\omar\omar\obj\Debug\net7.0\omar.csproj.CoreCompileInputs.cache
+C:\Users\kiing\source\repos\omar\omar\obj\Debug\net7.0\omar.dll
+C:\Users\kiing\source\repos\omar\omar\obj\Debug\net7.0\refint\omar.dll
+C:\Users\kiing\source\repos\omar\omar\obj\Debug\net7.0\omar.pdb
+C:\Users\kiing\source\repos\omar\omar\obj\Debug\net7.0\omar.genruntimeconfig.cache
+C:\Users\kiing\source\repos\omar\omar\obj\Debug\net7.0\ref\omar.dll
